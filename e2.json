@@ -1,0 +1,148 @@
+[
+  {
+    "id": "e2_s1",
+    "englishDay": 12,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "title": "Dummy",
+    "events": [
+      {
+        "event": "sharbat",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_s2",
+    "englishDay": 13,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "events": [
+      {
+        "event": "sharbat",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_d1",
+    "englishDay": 14,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "events": [
+      {
+        "event": "deeni program",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_d2",
+    "englishDay": 15,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "events": [
+      {
+        "event": "deeni program",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_m1",
+    "englishDay": 16,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "events": [
+      {
+        "event": "Majlis",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Afternoon Taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Evening Taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Baarat",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  }
+]

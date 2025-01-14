@@ -1,0 +1,179 @@
+[
+  {
+    "id": "e1_s1",
+    "title": "shaadi",
+    "englishDay": 10,
+    "englishMonth": 12,
+    "englishYear": 2024,
+    "events": [
+      {
+        "event": "sharbat",
+        "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
+        "description": "Description: sharbat in house1, house2, house3 and house4 so go enjoy ",
+        "startHour": 9,
+        "startMinute": 30,
+        "endHour": 12,
+        "endMinute": 15
+      },
+      {
+        "event": "taam",
+        "dressCode": "for bhaiyo kurta, izar and topi and for behno lenga ordni",
+        "description": "Description: taam from behnos side ",
+        "startHour": 8,
+        "startMinute": 0,
+        "endHour": 9,
+        "endMinute": 30
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  },
+
+  {
+    "id": "e1_s1",
+    "title": "shaadi",
+    "englishDay": 10,
+    "englishMonth": 12,
+    "englishYear": 2024,
+    "events": [
+      {
+        "event": "sharbat",
+        "dressCode": "",
+        "description": "sharbat in 4 houses",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_s2",
+    "englishDay": 0,
+    "englishMonth": 0,
+    "englishYear": 0,
+    "events": [
+      {
+        "event": "sharbat",
+        "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
+        "description": "enjoy sharbat at some houses and chat",
+        "startHour": 9,
+        "startMinute": 0,
+        "endHour": 12,
+        "endMinute": 30
+      },
+      {
+        "event": "taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_d1",
+    "englishDay": 0,
+    "englishMonth": 0,
+    "englishYear": 0,
+    "events": [
+      {
+        "event": "deeni program",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_d2",
+    "englishDay": 0,
+    "englishMonth": 0,
+    "englishYear": 0,
+    "events": [
+      {
+        "event": "deeni program",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e1_m1",
+    "englishDay": 0,
+    "englishMonth": 0,
+    "englishYear": 0,
+    "events": [
+      {
+        "event": "Majlis",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Afternoon Taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Evening Taam",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      },
+      {
+        "event": "Baarat",
+        "dressCode": "",
+        "description": "",
+        "startHour": 0,
+        "startMinute": 0,
+        "endHour": 0,
+        "endMinute": 0
+      }
+    ],
+    "start": "",
+    "locationCity": "nagpur",
+    "locationCountry": "India"
+  }
+]
