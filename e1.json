@@ -5,6 +5,7 @@
     "englishDay": 10,
     "englishMonth": 12,
     "englishYear": 2024,
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e1.json";,
     "events": [
       {
         "event": "sharbat",
@@ -36,6 +37,8 @@
     "englishDay": 10,
     "englishMonth": 12,
     "englishYear": 2024,
+
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e2.json";,
     "events": [
       {
         "event": "sharbat",

@@ -1,6 +1,7 @@
 [
   {
     "id": "e1",
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e1.json";,
     "event": "Shaadi",
     "description": "this is a dummy text body and it contains some dummy text",
     "startEnglishDay": 2,
@@ -14,7 +15,8 @@
   },
   {
     "id": "e2",
-    "event": "Dummy",
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e2.json";,
+    "event": "Dummy1",
     "description": "this is a dummy text body and it contains some dummy text",
     "startEnglishDay": 12,
     "startEnglishMonth": 1,
@@ -28,7 +30,8 @@
 
   {
     "id": "e3",
-    "event": "shaadi",
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e3.json";,
+    "event": "dummy2",
     "description": "shaadi programs and with deeni program in between and majlis",
     "startEnglishDay": 28,
     "startEnglishMonth": 12,
@@ -42,7 +45,8 @@
 
   {
     "id": "e4",
-    "event": "Dummy",
+    "event": "Dummy3",
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e4.json";,
     "description": "this is a dummy text body and it contains some dummy text",
     "startEnglishDay": 30,
     "startEnglishMonth": 12,
