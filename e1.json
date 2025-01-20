@@ -2,7 +2,7 @@
   {
     "id": "e1_s1",
     "title": "shaadi",
-    "englishDay": 10,
+    "englishDay": 28,
     "englishMonth": 12,
     "englishYear": 2024,
     "events": [
@@ -19,9 +19,9 @@
         "event": "taam",
         "dressCode": "for bhaiyo kurta, izar and topi and for behno lenga ordni",
         "description": "Description: taam from behnos side ",
-        "startHour": 8,
+        "startHour": 20,
         "startMinute": 0,
-        "endHour": 9,
+        "endHour": 21,
         "endMinute": 30
       }
     ],
@@ -33,28 +33,28 @@
   {
     "id": "e1_s1",
     "title": "shaadi",
-    "englishDay": 10,
+    "englishDay": 29,
     "englishMonth": 12,
     "englishYear": 2024,
 
     "events": [
       {
         "event": "sharbat",
-        "dressCode": "",
+        "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
         "description": "sharbat in 4 houses",
-        "startHour": 0,
+        "startHour": 10,
         "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "endHour": 12,
+        "endMinute": 30
       },
       {
         "event": "taam",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
+        "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
+        "description": "taam during the night",
+        "startHour": 20,
         "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "endHour": 21,
+        "endMinute": 30
       }
     ],
     "start": "",
@@ -63,27 +63,27 @@
   },
   {
     "id": "e1_s2",
-    "englishDay": 0,
-    "englishMonth": 0,
-    "englishYear": 0,
+    "englishDay": 30,
+    "englishMonth": 12,
+    "englishYear": 2024,
     "events": [
       {
         "event": "sharbat",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
-        "description": "enjoy sharbat at some houses and chat",
+        "description": "Sharbat at few houses",
         "startHour": 9,
         "startMinute": 0,
         "endHour": 12,
         "endMinute": 30
       },
       {
-        "event": "taam",
-        "dressCode": "",
+        "event": "Deeni program",
+        "dressCode": "Casuals or anything you are confortable in ",
         "description": "",
-        "startHour": 0,
-        "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "startHour": 18,
+        "startMinute": 30,
+        "endHour": 22,
+        "endMinute": 30
       }
     ],
     "start": "",
@@ -92,17 +92,17 @@
   },
   {
     "id": "e1_d1",
-    "englishDay": 0,
-    "englishMonth": 0,
-    "englishYear": 0,
+    "englishDay": 31,
+    "englishMonth": 12,
+    "englishYear": 2024,
     "events": [
       {
         "event": "deeni program",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
-        "startMinute": 0,
-        "endHour": 0,
+        "dressCode": "Casuals or anything you are comfortable in",
+        "description": "Deeni program part 2 screening in ground",
+        "startHour": 18,
+        "startMinute": 30,
+        "endHour": 21,
         "endMinute": 0
       }
     ],
@@ -112,17 +112,26 @@
   },
   {
     "id": "e1_d2",
-    "englishDay": 0,
-    "englishMonth": 0,
-    "englishYear": 0,
+    "englishDay": 1,
+    "englishMonth": 1,
+    "englishYear": 2025,
     "events": [
       {
-        "event": "deeni program",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
-        "startMinute": 0,
-        "endHour": 0,
+        "event": "Sharbat",
+        "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
+        "description": "Shabat from bhaiyo's side",
+        "startHour": 10,
+        "startMinute": 30,
+        "endHour": 12,
+        "endMinute": 30
+      },
+      {
+        "event": "Kadar Orchestra",
+        "dressCode": "Casuals",
+        "description": "Kardar Orchestra music program in ground",
+        "startHour": 18,
+        "startMinute": 30,
+        "endHour": 23,
         "endMinute": 0
       }
     ],
@@ -132,45 +141,45 @@
   },
   {
     "id": "e1_m1",
-    "englishDay": 0,
-    "englishMonth": 0,
-    "englishYear": 0,
+    "englishDay": 3,
+    "englishMonth": 1,
+    "englishYear": 2025,
     "events": [
       {
         "event": "Majlis",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
-        "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "dressCode": "Usual Majlis clothes",
+        "description": "Majlis starting with Nazams followed by 3 hour Zikar by Molana Saheb followed by shaadi Nikah ",
+        "startHour": 8,
+        "startMinute": 30,
+        "endHour": 12,
+        "endMinute": 30
       },
       {
         "event": "Afternoon Taam",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
+        "dressCode": "Usual taam clothes",
+        "description": "taam in afternoon in ground ",
+        "startHour": 2,
         "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "endHour": 3,
+        "endMinute": 30
       },
       {
         "event": "Evening Taam",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
+        "dressCode": "Usual taam clothes",
+        "description": "taam followed by Baarat",
+        "startHour": 20,
         "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "endHour": 21,
+        "endMinute": 30
       },
       {
         "event": "Baarat",
-        "dressCode": "",
-        "description": "",
-        "startHour": 0,
-        "startMinute": 0,
-        "endHour": 0,
-        "endMinute": 0
+        "dressCode": "Same as taam",
+        "description": "Baarat with music and etc",
+        "startHour": 21,
+        "startMinute": 30,
+        "endHour": 23,
+        "endMinute": 30
       }
     ],
     "start": "",
