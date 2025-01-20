@@ -20,7 +20,7 @@
         "dressCode": "Usual taam clothes",
         "description": "Taam at night",
         "startHour": 20,
-        "startMinute": 00,
+        "startMinute": 0,
         "endHour": 9,
         "endMinute": 30
       }
@@ -40,7 +40,7 @@
         "dressCode": "Usual Majlis clothes",
         "description": "Majlis in Afternoon",
         "startHour": 16,
-        "startMinute": 00,
+        "startMinute": 0,
         "endHour": 7,
         "endMinute": 30
       },
@@ -49,7 +49,7 @@
         "dressCode": "Smart casuals",
         "description": "Taam in diwane aam at night",
         "startHour": 20,
-        "startMinute": 00,
+        "startMinute": 0,
         "endHour": 9,
         "endMinute": 30
       }
