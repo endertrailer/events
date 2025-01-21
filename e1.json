@@ -1,13 +1,13 @@
 [
   {
     "id": "e1_s1",
-    "title": "shaadi",
+    "title": "Shaadi",
     "englishDay": 28,
     "englishMonth": 12,
     "englishYear": 2024,
     "events": [
       {
-        "event": "sharbat",
+        "event": "Sharbat",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
         "description": "Description: sharbat in house1, house2, house3 and house4 so go enjoy ",
         "startHour": 9,
@@ -16,7 +16,7 @@
         "endMinute": 15
       },
       {
-        "event": "taam",
+        "event": "Taam",
         "dressCode": "for bhaiyo kurta, izar and topi and for behno lenga ordni",
         "description": "Description: taam from behnos side ",
         "startHour": 20,
@@ -26,20 +26,20 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   },
 
   {
     "id": "e1_s1",
-    "title": "shaadi",
+    "title": "Shaadi",
     "englishDay": 29,
     "englishMonth": 12,
     "englishYear": 2024,
 
     "events": [
       {
-        "event": "sharbat",
+        "event": "Sharbat",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
         "description": "sharbat in 4 houses",
         "startHour": 10,
@@ -48,7 +48,7 @@
         "endMinute": 30
       },
       {
-        "event": "taam",
+        "event": "Taam",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
         "description": "taam during the night",
         "startHour": 20,
@@ -58,7 +58,7 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   },
   {
@@ -68,7 +68,7 @@
     "englishYear": 2024,
     "events": [
       {
-        "event": "sharbat",
+        "event": "Sharbat",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
         "description": "Sharbat at few houses",
         "startHour": 9,
@@ -87,7 +87,7 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   },
   {
@@ -97,7 +97,7 @@
     "englishYear": 2024,
     "events": [
       {
-        "event": "deeni program",
+        "event": "Deeni program",
         "dressCode": "Casuals or anything you are comfortable in",
         "description": "Deeni program part 2 screening in ground",
         "startHour": 18,
@@ -107,7 +107,7 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   },
   {
@@ -136,7 +136,7 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   },
   {
@@ -183,7 +183,7 @@
       }
     ],
     "start": "",
-    "locationCity": "nagpur",
+    "locationCity": "Nagpur",
     "locationCountry": "India"
   }
 ]

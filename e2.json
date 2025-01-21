@@ -4,7 +4,7 @@
     "englishDay": 18,
     "englishMonth": 1,
     "englishYear": 2025,
-    "title": "20mi event",
+    "title": "20mi Event",
     "events": [
       {
         "event": "Majlis",
@@ -16,7 +16,7 @@
         "endMinute": 0
       },
       {
-        "event": "taam",
+        "event": "Taam",
         "dressCode": "Usual taam clothes",
         "description": "Taam at night",
         "startHour": 20,
@@ -47,7 +47,7 @@
       {
         "event": "taam",
         "dressCode": "Smart casuals",
-        "description": "Taam in diwane aam at night",
+        "description": "Taam in Diwane aam at night",
         "startHour": 20,
         "startMinute": 0,
         "endHour": 9,
