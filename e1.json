@@ -9,7 +9,7 @@
       {
         "event": "Sharbat",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
-        "description": "Description: sharbat in house1, house2, house3 and house4 so go enjoy ",
+        "description": "Sharbat in house1, house2, house3 and house4 so go enjoy ",
         "startHour": 9,
         "startMinute": 30,
         "endHour": 12,
@@ -18,7 +18,7 @@
       {
         "event": "Taam",
         "dressCode": "for bhaiyo kurta, izar and topi and for behno lenga ordni",
-        "description": "Description: taam from behnos side ",
+        "description": "Taam from behnos side ",
         "startHour": 20,
         "startMinute": 0,
         "endHour": 21,
@@ -50,7 +50,7 @@
       {
         "event": "Taam",
         "dressCode": "kurta izar for bhaiyo and lenga ordni for behno",
-        "description": "taam during the night",
+        "description": "Taam during the night",
         "startHour": 20,
         "startMinute": 0,
         "endHour": 21,
