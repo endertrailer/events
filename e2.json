@@ -30,8 +30,37 @@
     "locationCountry": "India"
   },
   {
-    "id": "e1_s2",
+    "id": "e2_s2",
     "englishDay": 19,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "events": [
+      {
+        "event": "Majlis",
+        "dressCode": "Usual Majlis clothes",
+        "description": "Majlis in Afternoon",
+        "startHour": 16,
+        "startMinute": 0,
+        "endHour": 7,
+        "endMinute": 30
+      },
+      {
+        "event": "taam",
+        "dressCode": "Smart casuals",
+        "description": "Taam in Diwane aam at night",
+        "startHour": 20,
+        "startMinute": 0,
+        "endHour": 9,
+        "endMinute": 30
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur and Vizag",
+    "locationCountry": "India"
+  },
+  {
+    "id": "e2_s3",
+    "englishDay": 22,
     "englishMonth": 1,
     "englishYear": 2025,
     "events": [
