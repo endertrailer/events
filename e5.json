@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e5_s1",
+    "englishDay": 22,
+    "englishMonth": 1,
+    "englishYear": 2025,
+    "title": "20mi Event",
+    "events": [
+      {
+        "event": "Majlis",
+        "dressCode": "Usual Majlis Clothes",
+        "description": "Majlis in Evening",
+        "startHour": 18,
+        "startMinute": 30,
+        "endHour": 20,
+        "endMinute": 0
+      },
+      {
+        "event": "Taam",
+        "dressCode": "Usual taam clothes",
+        "description": "Taam at night",
+        "startHour": 20,
+        "startMinute": 0,
+        "endHour": 21,
+        "endMinute": 30
+      }
+    ],
+    "start": "",
+    "locationCity": "Nagpur",
+    "locationCountry": "India"
+  }
+]

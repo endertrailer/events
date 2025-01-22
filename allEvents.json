@@ -1,5 +1,20 @@
 [
   {
+    "id": "e5",
+    "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e2.json",
+    "event": "Shaadi",
+    "description": "Events for the Shaadi of 11 pairs",
+    "startEnglishDay": 22,
+    "startEnglishMonth": 1,
+    "startEnglishYear": 2025,
+    "endEnglishDay": 22,
+    "endEnglishMonth": 1,
+    "endEnglishYear": 2025,
+    "locationCity": "",
+    "locationCountry": "",
+    "abediYear": 138
+  },
+  {
     "id": "e2",
     "url": "https://raw.githubusercontent.com/endertrailer/events/refs/heads/main/e1.json",
     "event": "20mi",
