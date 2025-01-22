@@ -158,9 +158,9 @@
         "event": "Afternoon Taam",
         "dressCode": "Usual taam clothes",
         "description": "taam in afternoon in ground ",
-        "startHour": 2,
+        "startHour": 14,
         "startMinute": 0,
-        "endHour": 3,
+        "endHour": 15,
         "endMinute": 30
       },
       {

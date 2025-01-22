@@ -21,7 +21,7 @@
         "description": "Taam at night",
         "startHour": 20,
         "startMinute": 0,
-        "endHour": 9,
+        "endHour": 21,
         "endMinute": 30
       }
     ],
@@ -50,7 +50,7 @@
         "description": "Taam in Diwane aam at night",
         "startHour": 20,
         "startMinute": 0,
-        "endHour": 9,
+        "endHour": 21,
         "endMinute": 30
       }
     ],
@@ -70,7 +70,7 @@
         "description": "Majlis in Afternoon",
         "startHour": 16,
         "startMinute": 0,
-        "endHour": 7,
+        "endHour": 19,
         "endMinute": 30
       },
       {
@@ -79,7 +79,7 @@
         "description": "Taam in Diwane aam at night",
         "startHour": 20,
         "startMinute": 0,
-        "endHour": 9,
+        "endHour": 21,
         "endMinute": 30
       }
     ],
